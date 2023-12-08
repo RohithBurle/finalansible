@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1702019362,,"wq"
+|2,0,1702024741,,"wq"
 :'<,'>wq
 |2,0,1702016375,,"'<,'>wq"
 
@@ -27,252 +27,297 @@
 # Registers:
 
 # File marks:
-'0  6  3  ~/rohith/tasks/main.yml
-|4,48,6,3,1702019362,"~/rohith/tasks/main.yml"
-'1  5  23  ~/rohith/tasks/main.yml
-|4,49,5,23,1702019216,"~/rohith/tasks/main.yml"
-'2  5  23  ~/rohith/tasks/main.yml
-|4,50,5,23,1702019216,"~/rohith/tasks/main.yml"
-'3  4  31  ~/rohith/tasks/main.yml
-|4,51,4,31,1702018434,"~/rohith/tasks/main.yml"
-'4  4  31  ~/rohith/tasks/main.yml
-|4,52,4,31,1702018434,"~/rohith/tasks/main.yml"
-'5  4  31  ~/rohith/tasks/main.yml
-|4,53,4,31,1702018434,"~/rohith/tasks/main.yml"
-'6  4  31  ~/rohith/tasks/main.yml
-|4,54,4,31,1702018434,"~/rohith/tasks/main.yml"
-'7  9  6  ~/index.html
-|4,55,9,6,1702018235,"~/index.html"
-'8  4  33  ~/rohith/tasks/main.yml
-|4,56,4,33,1702018092,"~/rohith/tasks/main.yml"
-'9  4  33  ~/rohith/tasks/main.yml
-|4,57,4,33,1702018092,"~/rohith/tasks/main.yml"
+'0  1  0  ~/rohith/tasks/main.yml
+|4,48,1,0,1702024741,"~/rohith/tasks/main.yml"
+'1  3  0  ~/final.yml
+|4,49,3,0,1702024643,"~/final.yml"
+'2  8  0  ~/final.yml
+|4,50,8,0,1702024538,"~/final.yml"
+'3  8  0  ~/final.yml
+|4,51,8,0,1702024538,"~/final.yml"
+'4  2  12  ~/inventory.ini
+|4,52,2,12,1702024500,"~/inventory.ini"
+'5  26  0  ~/rohith/files/index.html
+|4,53,26,0,1702024266,"~/rohith/files/index.html"
+'6  6  0  ~/rohith/handlers/main.yml
+|4,54,6,0,1702024219,"~/rohith/handlers/main.yml"
+'7  6  13  ~/rohith/tasks/main.yml
+|4,55,6,13,1702024174,"~/rohith/tasks/main.yml"
+'8  6  13  ~/rohith/tasks/main.yml
+|4,56,6,13,1702024174,"~/rohith/tasks/main.yml"
+'9  3  3  ~/rohith/tasks/main.yml
+|4,57,3,3,1702019362,"~/rohith/tasks/main.yml"
 
 # Jumplist (newest first):
--'  6  3  ~/rohith/tasks/main.yml
-|4,39,6,3,1702019362,"~/rohith/tasks/main.yml"
--'  5  23  ~/rohith/tasks/main.yml
-|4,39,5,23,1702019337,"~/rohith/tasks/main.yml"
--'  5  23  ~/rohith/tasks/main.yml
-|4,39,5,23,1702019216,"~/rohith/tasks/main.yml"
--'  4  31  ~/rohith/tasks/main.yml
-|4,39,4,31,1702018933,"~/rohith/tasks/main.yml"
--'  4  31  ~/rohith/tasks/main.yml
-|4,39,4,31,1702018933,"~/rohith/tasks/main.yml"
--'  4  31  ~/rohith/tasks/main.yml
-|4,39,4,31,1702018434,"~/rohith/tasks/main.yml"
--'  9  6  ~/index.html
-|4,39,9,6,1702018235,"~/index.html"
--'  9  6  ~/index.html
-|4,39,9,6,1702018235,"~/index.html"
--'  9  6  ~/index.html
-|4,39,9,6,1702018235,"~/index.html"
--'  9  6  ~/index.html
-|4,39,9,6,1702018235,"~/index.html"
--'  9  6  ~/index.html
-|4,39,9,6,1702018235,"~/index.html"
--'  9  6  ~/index.html
-|4,39,9,6,1702018235,"~/index.html"
--'  9  6  ~/index.html
-|4,39,9,6,1702018235,"~/index.html"
--'  9  6  ~/index.html
-|4,39,9,6,1702018235,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1702018214,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1702018214,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1702018214,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1702018214,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1702018214,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1702018214,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1702018214,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1702018214,"~/index.html"
--'  4  33  ~/rohith/tasks/main.yml
-|4,39,4,33,1702018092,"~/rohith/tasks/main.yml"
--'  4  33  ~/rohith/tasks/main.yml
-|4,39,4,33,1702018092,"~/rohith/tasks/main.yml"
--'  5  21  ~/rohith/tasks/main.yml
-|4,39,5,21,1702018080,"~/rohith/tasks/main.yml"
--'  5  21  ~/rohith/tasks/main.yml
-|4,39,5,21,1702018080,"~/rohith/tasks/main.yml"
--'  5  21  ~/rohith/tasks/main.yml
-|4,39,5,21,1702018080,"~/rohith/tasks/main.yml"
--'  5  21  ~/rohith/tasks/main.yml
-|4,39,5,21,1702018043,"~/rohith/tasks/main.yml"
--'  5  21  ~/rohith/tasks/main.yml
-|4,39,5,21,1702018043,"~/rohith/tasks/main.yml"
--'  7  1  ~/rohith/tasks/main.yml
-|4,39,7,1,1702018011,"~/rohith/tasks/main.yml"
--'  7  1  ~/rohith/tasks/main.yml
-|4,39,7,1,1702018011,"~/rohith/tasks/main.yml"
--'  7  1  ~/rohith/tasks/main.yml
-|4,39,7,1,1702018011,"~/rohith/tasks/main.yml"
--'  7  1  ~/rohith/tasks/main.yml
-|4,39,7,1,1702018011,"~/rohith/tasks/main.yml"
--'  7  1  ~/rohith/tasks/main.yml
-|4,39,7,1,1702018011,"~/rohith/tasks/main.yml"
--'  7  1  ~/rohith/tasks/main.yml
-|4,39,7,1,1702018011,"~/rohith/tasks/main.yml"
--'  7  1  ~/rohith/tasks/main.yml
-|4,39,7,1,1702018011,"~/rohith/tasks/main.yml"
--'  7  1  ~/rohith/tasks/main.yml
-|4,39,7,1,1702017956,"~/rohith/tasks/main.yml"
--'  7  1  ~/rohith/tasks/main.yml
-|4,39,7,1,1702017956,"~/rohith/tasks/main.yml"
--'  4  8  ~/rohith/tasks/main.yml
-|4,39,4,8,1702017871,"~/rohith/tasks/main.yml"
--'  4  8  ~/rohith/tasks/main.yml
-|4,39,4,8,1702017871,"~/rohith/tasks/main.yml"
--'  4  8  ~/rohith/tasks/main.yml
-|4,39,4,8,1702017871,"~/rohith/tasks/main.yml"
--'  4  8  ~/rohith/tasks/main.yml
-|4,39,4,8,1702017871,"~/rohith/tasks/main.yml"
--'  4  8  ~/rohith/tasks/main.yml
-|4,39,4,8,1702017696,"~/rohith/tasks/main.yml"
--'  4  8  ~/rohith/tasks/main.yml
-|4,39,4,8,1702017696,"~/rohith/tasks/main.yml"
--'  5  32  ~/rohith/tasks/main.yml
-|4,39,5,32,1702017682,"~/rohith/tasks/main.yml"
--'  5  32  ~/rohith/tasks/main.yml
-|4,39,5,32,1702017682,"~/rohith/tasks/main.yml"
--'  5  32  ~/rohith/tasks/main.yml
-|4,39,5,32,1702017682,"~/rohith/tasks/main.yml"
--'  5  32  ~/rohith/tasks/main.yml
-|4,39,5,32,1702017682,"~/rohith/tasks/main.yml"
--'  5  32  ~/rohith/tasks/main.yml
-|4,39,5,32,1702017463,"~/rohith/tasks/main.yml"
--'  5  32  ~/rohith/tasks/main.yml
-|4,39,5,32,1702017463,"~/rohith/tasks/main.yml"
--'  5  21  ~/rohith/tasks/main.yml
-|4,39,5,21,1702017167,"~/rohith/tasks/main.yml"
--'  5  21  ~/rohith/tasks/main.yml
-|4,39,5,21,1702017167,"~/rohith/tasks/main.yml"
--'  4  33  ~/rohith/tasks/main.yml
-|4,39,4,33,1702017154,"~/rohith/tasks/main.yml"
--'  4  33  ~/rohith/tasks/main.yml
-|4,39,4,33,1702017154,"~/rohith/tasks/main.yml"
--'  4  33  ~/rohith/tasks/main.yml
-|4,39,4,33,1702017154,"~/rohith/tasks/main.yml"
--'  4  33  ~/rohith/tasks/main.yml
-|4,39,4,33,1702017154,"~/rohith/tasks/main.yml"
+-'  1  0  ~/rohith/tasks/main.yml
+|4,39,1,0,1702024741,"~/rohith/tasks/main.yml"
+-'  6  13  ~/rohith/tasks/main.yml
+|4,39,6,13,1702024726,"~/rohith/tasks/main.yml"
+-'  3  0  ~/final.yml
+|4,39,3,0,1702024643,"~/final.yml"
+-'  3  0  ~/final.yml
+|4,39,3,0,1702024643,"~/final.yml"
 -'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
+|4,39,8,0,1702024617,"~/final.yml"
 -'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
+|4,39,8,0,1702024617,"~/final.yml"
 -'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
+|4,39,8,0,1702024538,"~/final.yml"
 -'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702016840,"~/final.yml"
+|4,39,8,0,1702024538,"~/final.yml"
+-'  1  0  ~/final.yml
+|4,39,1,0,1702024530,"~/final.yml"
+-'  1  0  ~/final.yml
+|4,39,1,0,1702024530,"~/final.yml"
+-'  1  0  ~/final.yml
+|4,39,1,0,1702024530,"~/final.yml"
+-'  1  0  ~/final.yml
+|4,39,1,0,1702024530,"~/final.yml"
+-'  2  12  ~/inventory.ini
+|4,39,2,12,1702024500,"~/inventory.ini"
+-'  2  12  ~/inventory.ini
+|4,39,2,12,1702024500,"~/inventory.ini"
+-'  2  12  ~/inventory.ini
+|4,39,2,12,1702024500,"~/inventory.ini"
+-'  2  12  ~/inventory.ini
+|4,39,2,12,1702024500,"~/inventory.ini"
+-'  2  12  ~/inventory.ini
+|4,39,2,12,1702024500,"~/inventory.ini"
+-'  2  12  ~/inventory.ini
+|4,39,2,12,1702024500,"~/inventory.ini"
+-'  2  12  ~/inventory.ini
+|4,39,2,12,1702024500,"~/inventory.ini"
+-'  2  12  ~/inventory.ini
+|4,39,2,12,1702024500,"~/inventory.ini"
+-'  1  0  ~/inventory.ini
+|4,39,1,0,1702024401,"~/inventory.ini"
+-'  1  0  ~/inventory.ini
+|4,39,1,0,1702024401,"~/inventory.ini"
+-'  1  0  ~/inventory.ini
+|4,39,1,0,1702024401,"~/inventory.ini"
+-'  1  0  ~/inventory.ini
+|4,39,1,0,1702024401,"~/inventory.ini"
+-'  1  0  ~/inventory.ini
+|4,39,1,0,1702024401,"~/inventory.ini"
+-'  1  0  ~/inventory.ini
+|4,39,1,0,1702024401,"~/inventory.ini"
+-'  1  0  ~/inventory.ini
+|4,39,1,0,1702024401,"~/inventory.ini"
+-'  1  0  ~/inventory.ini
+|4,39,1,0,1702024401,"~/inventory.ini"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  26  0  ~/rohith/files/index.html
+|4,39,26,0,1702024266,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  1  0  ~/rohith/files/index.html
+|4,39,1,0,1702024243,"~/rohith/files/index.html"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  6  0  ~/rohith/handlers/main.yml
+|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
+-'  1  0  ~/rohith/handlers/main.yml
+|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
+-'  1  0  ~/rohith/handlers/main.yml
+|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
+-'  1  0  ~/rohith/handlers/main.yml
+|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
+-'  1  0  ~/rohith/handlers/main.yml
+|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
+-'  1  0  ~/rohith/handlers/main.yml
+|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
+-'  1  0  ~/rohith/handlers/main.yml
+|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
+-'  1  0  ~/rohith/handlers/main.yml
+|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
+-'  1  0  ~/rohith/handlers/main.yml
+|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
 
 # History of marks within files (newest to oldest):
 
 > ~/rohith/tasks/main.yml
-	*	1702019361	0
-	"	6	3
-	^	6	4
-	.	5	23
+	*	1702024740	0
+	"	1	0
+	^	1	0
+	.	1	0
 	+	1	3
-	+	13	31
-	+	4	33
-	+	5	22
-	+	4	44
-	+	5	32
-	+	4	8
+	+	10	31
+	+	1	33
+	+	2	22
+	+	1	44
+	+	2	32
+	+	1	8
+	+	3	13
+	+	4	2
+	+	5	0
+	+	2	22
+	+	1	35
+	+	1	27
+	+	2	10
+	+	1	28
+	+	2	23
+	+	1	0
+	+	14	32
+	+	1	0
+	+	2	0
+	+	1	0
 	+	6	13
-	+	7	2
+	+	1	0
+
+> ~/final.yml
+	*	1702024642	0
+	"	3	0
+	^	3	1
+	.	3	1
+	+	9	0
+	+	2	13
+	+	3	12
 	+	8	0
-	+	5	22
-	+	4	35
-	+	4	27
-	+	5	10
-	+	4	28
-	+	5	23
+	+	7	12
+	+	2	0
+	+	3	1
+
+> ~/inventory.ini
+	*	1702024499	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	1	19
+	+	2	12
+
+> ~/rohith/files/index.html
+	*	1702024262	0
+	"	26	0
+	^	26	0
+	.	25	7
+	+	9	6
+	+	25	7
+
+> ~/rohith/handlers/main.yml
+	*	1702024217	0
+	"	6	0
+	^	6	0
+	.	5	20
+	+	1	3
+	+	4	20
+	+	5	20
 
 > ~/index.html
 	*	1702018234	0
@@ -280,24 +325,6 @@
 	^	9	7
 	.	9	6
 	+	9	6
-
-> ~/final.yml
-	*	1702016839	0
-	"	8	0
-	^	8	0
-	.	7	12
-	+	9	0
-	+	2	13
-	+	3	12
-	+	8	0
-	+	7	12
-
-> ~/inventory.ini
-	*	1702016769	0
-	"	2	0
-	^	2	0
-	.	1	19
-	+	1	19
 
 > ~/inventory
 	*	1702016416	0
@@ -320,14 +347,6 @@
 	.	1	0
 	+	1	0
 
-> ~/rohith/handlers/main.yml
-	*	1702015658	0
-	"	6	0
-	^	6	0
-	.	5	20
-	+	1	3
-	+	5	20
-
 > ~/rohith/tasks/main.yaml
 	*	1702015557	0
 	"	5	22
@@ -335,13 +354,6 @@
 	.	5	22
 	+	13	32
 	+	5	22
-
-> ~/rohith/files/index.html
-	*	1702015474	0
-	"	9	6
-	^	9	7
-	.	9	6
-	+	9	6
 
 > ~/host/playbook.yaml
 	*	1702014455	0

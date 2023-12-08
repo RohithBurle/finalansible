@@ -1,0 +1,8 @@
+---
+
+- hosts: your_target_group  # Replace with your target group or specific IP addresses
+  become: true
+
+  roles:
+    - rohith
+

@@ -1,0 +1,15 @@
+---
+- name: Copy index.html file
+  copy:
+    src: "/home/ubuntu/rohith/files/index.html"
+    dest: "/var/www/html/"
+    mode: 0666
+  notify: Restart Apache Service
+
+- name: Install Apache2 on Ubuntu
+  become: true
+  apt:
+    name: apache2
+    state: present
+  notify: Restart Apache Service
+
