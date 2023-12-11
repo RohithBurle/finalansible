@@ -1,0 +1,36 @@
+---
+- name: Build and Run Docker Container for Flask App
+  hosts: okate
+  become: yes
+
+  tasks:
+    - name: Install Docker
+      become: yes
+      apt:
+        name: "{{ item }}"
+        state: present
+      loop:
+        - docker.io
+
+    - name: Transfer Dockerfile and app.py to the host
+      become: yes
+      copy:
+        src: /home/ubuntu/ad/Dockerfile
+        dest: /home/ubuntu/ad/
+        mode: 0755
+
+    - name: Transfer app.py to the host
+      become: yes
+      copy:
+        src: /home/ubuntu/ad/app.py
+        dest: /home/ubuntu/ad/
+        mode: 0755
+
+    - name: Build Docker Image
+      become: yes
+      command: "docker build -t rohith /home/ubuntu/ad/"
+
+    - name: Run Docker Container
+      become: yes
+      command: "docker run -d -p 5000:5000 --name container rohith"
+

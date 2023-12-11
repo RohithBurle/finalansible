@@ -1,0 +1,42 @@
+---
+- name: Deploy and Run Python Flask App
+  hosts: your_target_group
+  become: yes
+
+  tasks:
+    - name: Install Python and pip
+      become: yes
+      apt:
+        name: "{{ item }}"
+        state: present
+      loop:
+        - python3
+        - python3-pip
+
+    - name: Install Flask
+      become: yes
+      pip:
+        name: flask
+
+    - name: Transfer app.py to the host
+      become: yes
+      copy:
+        src: /home/ubuntu/python/app.py
+        dest: /home/ubuntu/
+        mode: 0755
+
+    - name: Run the Flask App
+      become: yes
+      command: "nohup python3 /home/ubuntu/app.py --host=0.0.0.0 --port=3214 > /dev/null 2>&1 &"
+      register: flask_app_process
+
+    - name: Pause to allow the Flask app to start
+      pause:
+        seconds: 10
+
+    - name: Stop the Flask App
+      become: yes
+      shell: "pkill -f 'python3 /home/ubuntu/app.py'"
+      ignore_errors: true
+      when: flask_app_process is succeeded
+

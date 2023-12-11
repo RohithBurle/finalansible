@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1702024741,,"wq"
+|2,0,1702294425,,"wq"
 :'<,'>wq
 |2,0,1702016375,,"'<,'>wq"
 
@@ -27,230 +27,319 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/rohith/tasks/main.yml
-|4,48,1,0,1702024741,"~/rohith/tasks/main.yml"
-'1  3  0  ~/final.yml
-|4,49,3,0,1702024643,"~/final.yml"
-'2  8  0  ~/final.yml
-|4,50,8,0,1702024538,"~/final.yml"
-'3  8  0  ~/final.yml
-|4,51,8,0,1702024538,"~/final.yml"
-'4  2  12  ~/inventory.ini
-|4,52,2,12,1702024500,"~/inventory.ini"
-'5  26  0  ~/rohith/files/index.html
-|4,53,26,0,1702024266,"~/rohith/files/index.html"
-'6  6  0  ~/rohith/handlers/main.yml
-|4,54,6,0,1702024219,"~/rohith/handlers/main.yml"
-'7  6  13  ~/rohith/tasks/main.yml
-|4,55,6,13,1702024174,"~/rohith/tasks/main.yml"
-'8  6  13  ~/rohith/tasks/main.yml
-|4,56,6,13,1702024174,"~/rohith/tasks/main.yml"
-'9  3  3  ~/rohith/tasks/main.yml
-|4,57,3,3,1702019362,"~/rohith/tasks/main.yml"
+'0  13  13  ~/ajenkins/jenplaybook.yaml
+|4,48,13,13,1702294425,"~/ajenkins/jenplaybook.yaml"
+'1  13  13  ~/ajenkins/jenplaybook.yaml
+|4,49,13,13,1702293521,"~/ajenkins/jenplaybook.yaml"
+'2  1  5  ~/ajenkins/inventory.ini
+|4,50,1,5,1702293476,"~/ajenkins/inventory.ini"
+'3  8  11  ~/ad/Dockerfile
+|4,51,8,11,1702293226,"~/ad/Dockerfile"
+'4  8  11  ~/ad/Dockerfile
+|4,52,8,11,1702293070,"~/ad/Dockerfile"
+'5  1  0  ~/ad/DOckerfile
+|4,53,1,0,1702293029,"~/ad/DOckerfile"
+'6  30  12  ~/ad/adplaybook.yaml
+|4,54,30,12,1702292933,"~/ad/adplaybook.yaml"
+'7  3  13  ~/ad/adplaybook.yaml
+|4,55,3,13,1702292737,"~/ad/adplaybook.yaml"
+'8  3  13  ~/ad/adplaybook.yaml
+|4,56,3,13,1702292737,"~/ad/adplaybook.yaml"
+'9  71  0  ~/ad/adplaybook.yaml
+|4,57,71,0,1702292517,"~/ad/adplaybook.yaml"
 
 # Jumplist (newest first):
--'  1  0  ~/rohith/tasks/main.yml
-|4,39,1,0,1702024741,"~/rohith/tasks/main.yml"
--'  6  13  ~/rohith/tasks/main.yml
-|4,39,6,13,1702024726,"~/rohith/tasks/main.yml"
--'  3  0  ~/final.yml
-|4,39,3,0,1702024643,"~/final.yml"
--'  3  0  ~/final.yml
-|4,39,3,0,1702024643,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702024617,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702024617,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702024538,"~/final.yml"
--'  8  0  ~/final.yml
-|4,39,8,0,1702024538,"~/final.yml"
--'  1  0  ~/final.yml
-|4,39,1,0,1702024530,"~/final.yml"
--'  1  0  ~/final.yml
-|4,39,1,0,1702024530,"~/final.yml"
--'  1  0  ~/final.yml
-|4,39,1,0,1702024530,"~/final.yml"
--'  1  0  ~/final.yml
-|4,39,1,0,1702024530,"~/final.yml"
--'  2  12  ~/inventory.ini
-|4,39,2,12,1702024500,"~/inventory.ini"
--'  2  12  ~/inventory.ini
-|4,39,2,12,1702024500,"~/inventory.ini"
--'  2  12  ~/inventory.ini
-|4,39,2,12,1702024500,"~/inventory.ini"
--'  2  12  ~/inventory.ini
-|4,39,2,12,1702024500,"~/inventory.ini"
--'  2  12  ~/inventory.ini
-|4,39,2,12,1702024500,"~/inventory.ini"
--'  2  12  ~/inventory.ini
-|4,39,2,12,1702024500,"~/inventory.ini"
--'  2  12  ~/inventory.ini
-|4,39,2,12,1702024500,"~/inventory.ini"
--'  2  12  ~/inventory.ini
-|4,39,2,12,1702024500,"~/inventory.ini"
--'  1  0  ~/inventory.ini
-|4,39,1,0,1702024401,"~/inventory.ini"
--'  1  0  ~/inventory.ini
-|4,39,1,0,1702024401,"~/inventory.ini"
--'  1  0  ~/inventory.ini
-|4,39,1,0,1702024401,"~/inventory.ini"
--'  1  0  ~/inventory.ini
-|4,39,1,0,1702024401,"~/inventory.ini"
--'  1  0  ~/inventory.ini
-|4,39,1,0,1702024401,"~/inventory.ini"
--'  1  0  ~/inventory.ini
-|4,39,1,0,1702024401,"~/inventory.ini"
--'  1  0  ~/inventory.ini
-|4,39,1,0,1702024401,"~/inventory.ini"
--'  1  0  ~/inventory.ini
-|4,39,1,0,1702024401,"~/inventory.ini"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  26  0  ~/rohith/files/index.html
-|4,39,26,0,1702024266,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  1  0  ~/rohith/files/index.html
-|4,39,1,0,1702024243,"~/rohith/files/index.html"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  6  0  ~/rohith/handlers/main.yml
-|4,39,6,0,1702024219,"~/rohith/handlers/main.yml"
--'  1  0  ~/rohith/handlers/main.yml
-|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
--'  1  0  ~/rohith/handlers/main.yml
-|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
--'  1  0  ~/rohith/handlers/main.yml
-|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
--'  1  0  ~/rohith/handlers/main.yml
-|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
--'  1  0  ~/rohith/handlers/main.yml
-|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
--'  1  0  ~/rohith/handlers/main.yml
-|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
--'  1  0  ~/rohith/handlers/main.yml
-|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
--'  1  0  ~/rohith/handlers/main.yml
-|4,39,1,0,1702024203,"~/rohith/handlers/main.yml"
+-'  13  13  ~/ajenkins/jenplaybook.yaml
+|4,39,13,13,1702294425,"~/ajenkins/jenplaybook.yaml"
+-'  13  13  ~/ajenkins/jenplaybook.yaml
+|4,39,13,13,1702293521,"~/ajenkins/jenplaybook.yaml"
+-'  1  0  ~/ajenkins/jenplaybook.yaml
+|4,39,1,0,1702293488,"~/ajenkins/jenplaybook.yaml"
+-'  1  0  ~/ajenkins/jenplaybook.yaml
+|4,39,1,0,1702293488,"~/ajenkins/jenplaybook.yaml"
+-'  1  5  ~/ajenkins/inventory.ini
+|4,39,1,5,1702293476,"~/ajenkins/inventory.ini"
+-'  1  5  ~/ajenkins/inventory.ini
+|4,39,1,5,1702293476,"~/ajenkins/inventory.ini"
+-'  1  5  ~/ajenkins/inventory.ini
+|4,39,1,5,1702293476,"~/ajenkins/inventory.ini"
+-'  1  5  ~/ajenkins/inventory.ini
+|4,39,1,5,1702293476,"~/ajenkins/inventory.ini"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293226,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293226,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293226,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293226,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293226,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293226,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293226,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293226,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293070,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293070,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293070,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293070,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293070,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293070,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293070,"~/ad/Dockerfile"
+-'  8  11  ~/ad/Dockerfile
+|4,39,8,11,1702293070,"~/ad/Dockerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  1  0  ~/ad/DOckerfile
+|4,39,1,0,1702293029,"~/ad/DOckerfile"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
+-'  30  12  ~/ad/adplaybook.yaml
+|4,39,30,12,1702292933,"~/ad/adplaybook.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/ajenkins/jenplaybook.yaml
+	*	1702294424	0
+	"	13	13
+	^	13	14
+	.	3	13
+	+	21	98
+	+	3	13
+
+> ~/ajenkins/inventory.ini
+	*	1702293475	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	2	12
+	+	1	5
+
+> ~/ad/Dockerfile
+	*	1702293225	0
+	"	8	11
+	^	8	12
+	.	8	11
+	+	17	24
+	+	8	7
+	+	1	49
+	+	17	24
+	+	8	11
+
+> ~/ad/DOckerfile
+	*	1702293027	0
+	"	1	0
+
+> ~/ad/adplaybook.yaml
+	*	1702292927	0
+	"	30	12
+	^	3	14
+	.	3	13
+	+	70	93
+	+	60	16
+	+	52	93
+	+	35	93
+	+	31	38
+	+	35	65
+	+	3	13
+
+> ~/ad/app.py
+	*	1702292160	0
+	"	11	0
+	^	11	0
+	.	10	38
+	+	10	38
+
+> ~/ad/inventory.ini
+	*	1702291946	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	2	12
+	+	1	5
+
+> ~/python/app.py
+	*	1702284437	0
+	"	10	36
+	^	10	37
+	.	10	37
+	+	10	37
+
+> ~/python/testing.yaml
+	*	1702284411	0
+	"	36	0
+	^	36	0
+	.	30	75
+	+	41	42
+	+	30	75
+
+> ~/python/playbook.yaml
+	*	1702283834	0
+	"	30	75
+	^	30	76
+	.	30	75
+	+	29	81
+	+	3	19
+	+	24	26
+	+	25	27
+	+	29	38
+	+	31	0
+	+	30	0
+	+	29	17
+	+	30	75
 
 > ~/rohith/tasks/main.yml
 	*	1702024740	0
